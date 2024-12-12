@@ -15,3 +15,13 @@
   ## Como Acessar a Aplicação
 <p>Acesse a aplicação por meio do link: <a href="https://megminnie.github.io/Pagina-de-login/
 "_blank">clique aqui</a></p>
+
+## *Screenshots*
+
+### Mostrar senha
+![Mostrar senha ](img/mostrar-senha.pnj)
+
+### Ocultar senha
+![Ocultar senha ](img/esconder-senha.pnj)
+
+</div>
