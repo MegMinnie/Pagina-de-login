@@ -19,9 +19,9 @@
 ## *Screenshots*
 
 ### Mostrar senha
-![Mostrar senha ](img/mostrar-senha.pnj)
+  ![Mostrar senha](img/mostrar-senha.png)
 
-### Ocultar senha
-![Ocultar senha ](img/esconder-senha.pnj)
+  ### Ocultar senha
+  ![Ocultar senha](img/esconder-senha.png)
 
 </div>
