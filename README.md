@@ -24,4 +24,13 @@
   ### Ocultar senha
   ![Ocultar senha](img/esconder-senha.png)
 
+  ### Erro ao logar
+  ![erro no Login](img/mensagem-erro.png)
+
+  ### Sucesso ao logar
+  ![sucesso logando](img/mensagem-sucesso.png)
+
+  ### Página depois de logar
+  ![segunda páginna](img/segunda-pagina.png)
+
 </div>
